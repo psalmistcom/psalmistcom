@@ -13,3 +13,5 @@ Strongest Skillests:
 - 💬 Vanilla Js 
 - 📫 Project Management: 
 - 😄 Product Designs:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=psalmistcom)](https://github.com/ryo-ma/github-profile-trophy)
