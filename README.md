@@ -9,7 +9,8 @@ Strongest Skillests:
 - 💬 PHP - Including it's frameworks
 - 💬 ReactJs 
 - 💬 MySQL 
-- 💬 Nodejs 
+- 💬 Nodejs
+- 💬 Mobile Application (Flutter)
 - 💬 Vanilla Js 
 - 📫 Project Management: 
 - 😄 Product Designs:
